@@ -8,7 +8,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-> <span style="text-align: justify;">Tengo más de 6 años de experiencia en el mundo del desarrollo de software, he sido capaz de adaptarme en diferentes puestos de trabajos relacionados al desarrollo, me gustan los desafíos, nuevos retos, el trabajo colaborativo, trato de ser autodidacta porque siempre hay algo nuevo que aprender. Soy apasionado de las nuevas tecnologías y me gusta programar.</span>
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
